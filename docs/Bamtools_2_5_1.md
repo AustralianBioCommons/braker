@@ -31,10 +31,11 @@ AUGUSTUS takes two mandatory arguments, a query file and a species identifier. A
 		* out    = output BAM file
 		* length = output alignment BAM file with sequence longer than 100 base pairs.
 
-- Please see more examples in the link_..
+- Please see more examples in the BAMTOOLS EXAMPLE..
+
 
 ### Link(s)
-  * [BAMTOOLS EXAMPLE link_](https://hcc.unl.edu/docs/applications/app_specific/bioinformatics_tools/data_manipulation_tools/bamtools/running_bamtools_commands/)
+  * [BAMTOOLS EXAMPLE](https://hcc.unl.edu/docs/applications/app_specific/bioinformatics_tools/data_manipulation_tools/bamtools/running_bamtools_commands/)
 
 
 ## Diagram
@@ -46,10 +47,10 @@ AUGUSTUS takes two mandatory arguments, a query file and a species identifier. A
 
 ### Installation
     * [Building and Installing](https://github.com/pezmaster31/bamtools/wiki/Building-and-installing)
-		* git clone git://github.com/pezmaster31/bamtools.git
+	* git clone git://github.com/pezmaster31/bamtools.git
 
 ## Third party tools / dependencies
-   * cmake is required[Installing CMAKE](https://cmake.org/install/)
+   * cmake is required [Installing CMAKE](https://cmake.org/install/)
 
 ## Tutorials
    * [SEE the Link(s) section above]

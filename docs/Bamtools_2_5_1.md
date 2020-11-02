@@ -34,7 +34,7 @@ AUGUSTUS takes two mandatory arguments, a query file and a species identifier. A
 - Please see more examples in the link_..
 
 ### Link(s)
-  * [BAMTOOLS EXAMPLE](https://hcc.unl.edu/docs/applications/app_specific/bioinformatics_tools/data_manipulation_tools/bamtools/running_bamtools_commands/)
+  * [BAMTOOLS EXAMPLE link_](https://hcc.unl.edu/docs/applications/app_specific/bioinformatics_tools/data_manipulation_tools/bamtools/running_bamtools_commands/)
 
 
 ## Diagram

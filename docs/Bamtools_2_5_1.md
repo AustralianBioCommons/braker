@@ -2,8 +2,9 @@
 
 ## Description
 Bamtools is a C++ API and command-line toolkit for working with BAM data in the Braker workflow.
+
 # USAGE
-AUGUSTUS takes two mandatory arguments, a query file and a species identifier. A query file is an uncompressed fasta format containing DNA sequence. Augustus has been trained for predicting genes in a list of species. 
+BAMTOOLS takes BAM file as an input and manipulate the BAM file using the tools below.
 
 * Usage:
   * bamtools [tools] -in=[input file in BAM format] -out=[output filename]
@@ -31,7 +32,7 @@ AUGUSTUS takes two mandatory arguments, a query file and a species identifier. A
 		* out    = output BAM file
 		* length = output alignment BAM file with sequence longer than 100 base pairs.
 
-- Please see more examples in the BAMTOOLS EXAMPLE..
+- Please see more examples in the BAMTOOLS EXAMPLE.
 
 
 ### Link(s)

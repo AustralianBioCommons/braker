@@ -17,7 +17,7 @@ Documentation structure:
 |-----------|--------------------------|------------------|
 |*AUGUSTUS* | *Augustus_3_2_2.md* | *Infrastructure optimisation .md for tool #1* |
 |*BAMTOOLS* | *Bamtools_2_5_1.md* | *Infrastructure optimisation .md for tool #2* |
-|*BLAST*    | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
+|*BLAST*    | *Blast_2_2_28+.md* | *Infrastructure optimisation .md for tool #3* |
 |*EXONERATE* | *Exonerate_2_2_0.md* | *Infrastructure optimisation .md for tool #3* |
 |*GENOMETHREADER* | *GenomeThreader_1_7_1.md* | *Infrastructure optimisation .md for tool #3* |
 |*PYTHON* | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |

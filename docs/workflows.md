@@ -2,17 +2,26 @@
 
 Introduction of workflow and its component tools.
 
-1. *Tool #1* - brief description
-2. *Tool #2* - brief description
-3. *Tool #3* - brief description
+1. *AUGUSTUS* 		- a program that predicts genes in eukaryotic genomic sequences.
+2. *BAMTOOLS* 		- a programmer's API and an end-user's toolkit for handling BAM files.
+3. *BLAST*			- a tool to find regions of similiarity between biological sequences.
+4. *EXONERATE* 		- a generic tool for pairwise sequence comparison.
+5. *GENOMETHREADER* - a software tool to compute gene structure predictions.
+6. *PYTHON*			- a general-purpose coding language.
+7. *SAMTOOLS* 		- a suite of programs for interacting with high-throughput sequencing data.
+
 
 Documentation structure:
 
 |Tool / workflow | Documentation | Optimisation |
 |-----------|--------------------------|------------------|
-|*Tool #1* | *Tool #1 documentation .md* | *Infrastructure optimisation .md for tool #1* |
-|*Tool #2* | *Tool #2 documentation .md* | *Infrastructure optimisation .md for tool #2* |
-|*Tool #3* | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
+|*AUGUSTUS* | *Augustus_3_2_2.md* | *Infrastructure optimisation .md for tool #1* |
+|*BAMTOOLS* | *Bamtools_2_5_1.md* | *Infrastructure optimisation .md for tool #2* |
+|*BLAST*    | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
+|*EXONERATE* | *Exonerate_2_2_0.md* | *Infrastructure optimisation .md for tool #3* |
+|*GENOMETHREADER* | *GenomeThreader_1_7_1.md* | *Infrastructure optimisation .md for tool #3* |
+|*PYTHON* | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
+|*SAMTOOLS* | *Samtools_1_5.md* | *Infrastructure optimisation .md for tool #3* |
 
 # Diagram
 

@@ -40,8 +40,13 @@ Logical visual description of processing steps for workflow can be found in the 
 6. *GENOMETHREADER*
 7. *SAMTOOLS*
 
-# Tutorials 
+# Tutorials
+  * Publication (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6635606/)
+  * User Manual (https://fossies.org/linux/augustus/docs/tutorial2018/BRAKER_userguide.pdf)
+
+# Third party tools / dependencies
 BRAKER s a collection of Perl and Python scripts. Below is a list of scripts required to execute the main script (braker.pl)
+  * BRAKER main scripts
    * align2hints.pl
    * filterGenemark.pl
    * filterIntronsFindStrand.pl
@@ -50,8 +55,6 @@ BRAKER s a collection of Perl and Python scripts. Below is a list of scripts req
    * findGenesInIntrons.pl
    * downsample_traingenes.pl
    * ensure_n_training_genes.py
-			
-# Third party tools / dependencies
   * Perl dependencies - BRAKER requires some dependencies from the CPAN-perl modules to be installed.
   	* File::Spec::Functions
   	* Hash::Merge
@@ -67,6 +70,10 @@ BRAKER s a collection of Perl and Python scripts. Below is a list of scripts req
   	* MCE::Mutex
   	* threads
 
+## BRAKER workflow example
+  * This BRAKER workflow script is written in bash script and implemented by QFAB (https://qfab.org/)
+  * The example bash script can be found here (example/run_BRAKER.sh).
+
 # Workflow infrastructure requirements
 
 ## Workflow manager
@@ -79,7 +86,7 @@ BRAKER s a collection of Perl and Python scripts. Below is a list of scripts req
 
 # Workflow Install
   * Braker can be installed using the package manager Anaconda if root permissions on the linux machine is not available.  * Anaconda (https://www.anaconda.com/distribution/)
-  	* Installation
+  	* Installation (see https://github.com/Gaius-Augustus/BRAKER for more details)
 		* wget https://repo.anaconda.com/archive/Anaconda3-2018.12-Linux-x86_64.sh
 		* bash bin/Anaconda3-2018.12-Linux-x86_64.sh # do not install VS (needs root privileges)
 		* conda install -c anaconda perl

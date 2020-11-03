@@ -15,13 +15,13 @@ Documentation structure:
 
 |Tool / workflow | Documentation | Optimisation |
 |-----------|--------------------------|------------------|
-|*AUGUSTUS* | *Augustus_3_2_2.md* | *Infrastructure optimisation .md for tool #1* |
-|*BAMTOOLS* | *Bamtools_2_5_1.md* | *Infrastructure optimisation .md for tool #2* |
-|*BLAST*    | *Blast_2_2_28+.md* | *Infrastructure optimisation .md for tool #3* |
-|*EXONERATE* | *Exonerate_2_2_0.md* | *Infrastructure optimisation .md for tool #3* |
-|*GENOMETHREADER* | *GenomeThreader_1_7_1.md* | *Infrastructure optimisation .md for tool #3* |
+|*AUGUSTUS* | [AUGUSTUS](Augustus_3_2_2.md) | *Infrastructure optimisation .md for tool #1* |
+|*BAMTOOLS* | [BAMTOOLS](Bamtools_2_5_1.md) | *Infrastructure optimisation .md for tool #2* |
+|*BLAST*    | [BLAST](Blast_2_2_28+.md) | *Infrastructure optimisation .md for tool #3* |
+|*EXONERATE* | [EXONERATE](Exonerate_2_2_0.md) | *Infrastructure optimisation .md for tool #3* |
+|*GENOMETHREADER* | [GENOMETHREADER](GenomeThreader_1_7_1.md) | *Infrastructure optimisation .md for tool #3* |
 |*PYTHON* | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
-|*SAMTOOLS* | *Samtools_1_5.md* | *Infrastructure optimisation .md for tool #3* |
+|*SAMTOOLS* | [SAMTOOLS](Samtools_1_5.md) | *Infrastructure optimisation .md for tool #3* |
 
 # Diagram
 

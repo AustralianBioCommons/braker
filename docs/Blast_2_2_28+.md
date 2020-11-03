@@ -36,12 +36,12 @@ BLAST takes FASTA file as an input and a blast formatted reference database for 
 
 ## Version notes
     * BLAST 2.2.28 or latest
-	* [Download](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.2.28/)
+	* Download (https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.2.28/)
 	* BLAST Database
-	* [Download](https://ftp.ncbi.nlm.nih.gov/blast/db/)
+	* Download (https://ftp.ncbi.nlm.nih.gov/blast/db/)
 
 ### Installation
-    * [Installing](https://www.ncbi.nlm.nih.gov/books/NBK279671/)
+    * Installing (https://www.ncbi.nlm.nih.gov/books/NBK279671/)
 
 ## Third party tools / dependencies
    * 

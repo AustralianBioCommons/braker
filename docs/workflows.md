@@ -33,8 +33,8 @@ Logical visual description of processing steps for workflow
 2. *BAMTOOLS*
 3. *BLAST*
 4. *EXONERATE*
-5, *GENOMETHREADER*
-6, *SAMTOOLS*
+5. *GENOMETHREADER*
+6. *SAMTOOLS*
 
 # Tutorials 
 

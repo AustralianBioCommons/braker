@@ -7,8 +7,7 @@ Introduction of workflow and its component tools.
 3. *BLAST*			- a tool to find regions of similiarity between biological sequences.
 4. *EXONERATE* 		- a generic tool for pairwise sequence comparison.
 5. *GENOMETHREADER* - a software tool to compute gene structure predictions.
-6. *PYTHON*			- a general-purpose coding language.
-7. *SAMTOOLS* 		- a suite of programs for interacting with high-throughput sequencing data.
+6. *SAMTOOLS* 		- a suite of programs for interacting with high-throughput sequencing data.
 
 
 Documentation structure:
@@ -20,7 +19,6 @@ Documentation structure:
 |*BLAST*    | [BLAST](Blast_2_2_28+.md) | *Infrastructure optimisation .md for tool #3* |
 |*EXONERATE* | [EXONERATE](Exonerate_2_2_0.md) | *Infrastructure optimisation .md for tool #3* |
 |*GENOMETHREADER* | [GENOMETHREADER](GenomeThreader_1_7_1.md) | *Infrastructure optimisation .md for tool #3* |
-|*PYTHON* | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
 |*SAMTOOLS* | [SAMTOOLS](Samtools_1_5.md) | *Infrastructure optimisation .md for tool #3* |
 
 # Diagram
@@ -31,9 +29,12 @@ Logical visual description of processing steps for workflow
 
 # Tools
 
-1. *Tool #1*
-2. *Tool #2*
-3. *Tool #3*
+1. *AUGUSTUS*
+2. *BAMTOOLS*
+3. *BLAST*
+4. *EXONERATE*
+5, *GENOMETHREADER*
+6, *SAMTOOLS*
 
 # Tutorials 
 

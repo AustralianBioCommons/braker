@@ -27,8 +27,8 @@ BLAST takes FASTA file as an input and a blast formatted reference database for 
 - More information can be found in this link_.
 
 
-### Link(s)
-  * [BLAST link](https://www.ncbi.nlm.nih.gov/books/NBK1734/)
+## Link(s)
+   * [BLAST link](https://www.ncbi.nlm.nih.gov/books/NBK1734/)
 
 
 ## Diagram
@@ -40,8 +40,8 @@ BLAST takes FASTA file as an input and a blast formatted reference database for 
 	* BLAST Database
 	* Download (https://ftp.ncbi.nlm.nih.gov/blast/db/)
 
-### Installation
-    * Installing (https://www.ncbi.nlm.nih.gov/books/NBK279671/)
+## Installation
+   * Installing (https://www.ncbi.nlm.nih.gov/books/NBK279671/)
 
 ## Third party tools / dependencies
    * 

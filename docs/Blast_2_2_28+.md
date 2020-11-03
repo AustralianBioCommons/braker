@@ -47,8 +47,8 @@ BLAST takes FASTA file as an input and a blast formatted reference database for 
    * 
 
 ## Tutorials
-   * [Tutorial] (https://www.ncbi.nlm.nih.gov/books/NBK1734/)
-   * [Command Line] (https://www.ncbi.nlm.nih.gov/books/NBK279690/)
+   * Tutorial (https://www.ncbi.nlm.nih.gov/books/NBK1734/)
+   * Command Line Usage (https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 
 ## Tool infrastructure requirements
    * To Be Investigated

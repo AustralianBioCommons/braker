@@ -6,8 +6,9 @@ Introduction of workflow and its component tools.
 2. *BAMTOOLS* 		- a programmer's API and an end-user's toolkit for handling BAM files.
 3. *BLAST*			- a tool to find regions of similiarity between biological sequences.
 4. *EXONERATE* 		- a generic tool for pairwise sequence comparison.
-5. *GENOMETHREADER* - a software tool to compute gene structure predictions.
-6. *SAMTOOLS* 		- a suite of programs for interacting with high-throughput sequencing data.
+5. *GENEMARK-ES* 	- 
+6. *GENOMETHREADER* - a software tool to compute gene structure predictions.
+7. *SAMTOOLS* 		- a suite of programs for interacting with high-throughput sequencing data.
 
 
 Documentation structure:
@@ -18,12 +19,14 @@ Documentation structure:
 |*BAMTOOLS* | [BAMTOOLS](Bamtools_2_5_1.md) | *Infrastructure optimisation .md for tool #2* |
 |*BLAST*    | [BLAST](Blast_2_2_28+.md) | *Infrastructure optimisation .md for tool #3* |
 |*EXONERATE* | [EXONERATE](Exonerate_2_2_0.md) | *Infrastructure optimisation .md for tool #3* |
+|*GENEMARK-ES* | [GENEMARK-ES](GeneMark_v4.md) | *Infrastructure optimisation .md for tool #3* |
 |*GENOMETHREADER* | [GENOMETHREADER](GenomeThreader_1_7_1.md) | *Infrastructure optimisation .md for tool #3* |
 |*SAMTOOLS* | [SAMTOOLS](Samtools_1_5.md) | *Infrastructure optimisation .md for tool #3* |
 
 # Diagram
 
-Logical visual description of processing steps for workflow
+Logical visual description of processing steps for workflow can be found in the BRAKER github (see https://github.com/Gaius-Augustus/BRAER).
+
 
 # Releases
 
@@ -33,8 +36,9 @@ Logical visual description of processing steps for workflow
 2. *BAMTOOLS*
 3. *BLAST*
 4. *EXONERATE*
-5. *GENOMETHREADER*
-6. *SAMTOOLS*
+5. *GENEMARK-ES*
+6. *GENOMETHREADER*
+7. *SAMTOOLS*
 
 # Tutorials 
 BRAKER s a collection of Perl and Python scripts. Below is a list of scripts required to execute the main script (braker.pl)

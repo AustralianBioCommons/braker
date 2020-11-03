@@ -25,7 +25,7 @@ Exonerate takes fasta file as input.
 - More examples can be found in this link_.
 
 
-### Link(s)
+## Link(s)
   * [EXONERATE link](https://www.ebi.ac.uk/about/vertebrate-genomics/software/exonerate-manual)
 
 
@@ -33,11 +33,11 @@ Exonerate takes fasta file as input.
    * Not Available
 
 ## Version notes
-    * EXONERATE 2.2.0 or latest
-	* [Download](https://github.com/nathanweeks/exonerate)
+   * EXONERATE 2.2.0 or latest
+   * [Download] (https://github.com/nathanweeks/exonerate)
 
-### Installation
-    * [Installing](https://github.com/nathanweeks/exonerate)
+## Installation
+   * Installing (https://github.com/nathanweeks/exonerate)
 
 ## Third party tools / dependencies
    * 

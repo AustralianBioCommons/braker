@@ -60,7 +60,7 @@ BLAST takes FASTA file as an input and a blast formatted reference database for 
    * To Be Investigated
 
 ## Tool Install
-   * Install exonerate using [Anaconda](https://anaconda.org/bioconda/exonerate)
+   * Install BLASTT using [Anaconda](https://anaconda.org/bioconda/blast)
 
 ## *Compute infrastructure name* optimisation (**LINK**)
 

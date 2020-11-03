@@ -72,7 +72,7 @@ BRAKER s a collection of Perl and Python scripts. Below is a list of scripts req
 
 ## BRAKER workflow example
   * This BRAKER workflow script is written in bash script and implemented by QFAB (https://qfab.org/)
-  * The example bash script can be found here (example/run_BRAKER.sh).
+  * The example bash script can be found here (https://github.com/AustralianBioCommons/braker/blob/master/example/run_BRAKER.sh).
 
 # Workflow infrastructure requirements
 
